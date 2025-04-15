@@ -219,7 +219,7 @@ This repository is licensed under the MIT License. For more details, please refe
 
 ## Contact
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ghag23/) or via email at [sagar.ghag1997@gmail.com](mailto:sagar.ghag1997@gmail.com) for any queries or collaboration opportunities.
+Feel free to reach out to me on [WhatsApp](https://wa.me/917383565932?text=Hi,%20I%20found%20you%20on%20Github.%0A%0ACan%20we%20connect?) or via email at [sagar.ghag1997@gmail.com](mailto:sagar.ghag1997@gmail.com) for any queries or collaboration opportunities.
 
 Thank you for visiting the **Legendary System** repository. Stay tuned for more exciting applications!
 
