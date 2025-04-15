@@ -9,8 +9,8 @@ I'm a **Flutter Tech Lead** and **Team Lead** with 6 years of total experience i
 - 🏢 **Professional Experience:**
 
   - 2 years as an iOS developer
-  - 4 years as a Flutter developer
-  - Managing a team of 5 members for the past 8 months
+  - 5 years as a Flutter developer
+  - Working as a Senior Software Engineer [@CriticalStart](https://github.com/Critical-Start)
 
 - 🏍️ Passionate about long motorcycle rides
 - 🏊‍♂️ Enjoy swimming
