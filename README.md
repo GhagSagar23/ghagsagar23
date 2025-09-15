@@ -1,16 +1,21 @@
 # Hi there, I'm Sagar! 👋
 
-## Flutter Tech Lead & Team Lead
+## Flutter Tech Lead & Team Lead | Full-Stack Developer
 
 ### About Me
 
-I'm a **Flutter Tech Lead** and **Team Lead** with 6 years of total experience in mobile app development.
+I'm a **Flutter Tech Lead** and **Team Lead** with 6 years of total experience in mobile app development, currently expanding my expertise into **full-stack web development**.
 
 - 🏢 **Professional Experience:**
-
   - 2 years as an iOS developer
   - 5 years as a Flutter developer
   - Working as a Senior Software Engineer [@CriticalStart](https://github.com/Critical-Start)
+
+- 🌐 **Currently Learning:**
+  - Modern Web Development (HTML5, CSS3, JavaScript ES6+)
+  - Vue.js for frontend frameworks
+  - DOM manipulation and interactive web applications
+  - Responsive design and modern CSS techniques
 
 - 🏍️ Passionate about long motorcycle rides
 - 🏊‍♂️ Enjoy swimming
@@ -30,14 +35,26 @@ I'm a **Flutter Tech Lead** and **Team Lead** with 6 years of total experience i
 
 ## Tech Stack
 
+### Mobile Development
 - **Languages & Frameworks:**
   - Dart
   - Swift
   - Kotlin
   - Flutter
-- **Tools:**
-  - Git
-  - CI/CD
+
+### Web Development (Learning)
+- **Frontend Technologies:**
+  - HTML5 & Semantic Web
+  - CSS3 & Modern Styling
+  - JavaScript (ES6+)
+  - Vue.js Framework
+  - DOM Manipulation
+  - Responsive Design
+
+### Tools & Technologies
+- **Development Tools:**
+  - Git & GitHub Actions
+  - CI/CD Pipelines
   - Firebase
   - SQLite
   - Xcode
@@ -45,12 +62,36 @@ I'm a **Flutter Tech Lead** and **Team Lead** with 6 years of total experience i
   - VS Code
   - Postman
   - Jira
-- **Methodologies:**
-  - Agile
-  - Scrum
-  - Kanban
-  - Test-Driven Development (TDD)
-  - Behavior-Driven Development (BDD)
+
+### Methodologies
+- Agile
+- Scrum
+- Kanban
+- Test-Driven Development (TDD)
+- Behavior-Driven Development (BDD)
+
+---
+
+## Learning Journey
+
+### 🌐 [Web Design Course Progress](https://github.com/GhagSagar23/vue_js_udemy)
+
+Currently undertaking a comprehensive web development course to expand my skillset from mobile to full-stack development. This repository features:
+
+- **Automated Progress Tracking**: GitHub Actions workflow that tracks learning progress with visual dashboards
+- **Live Progress Dashboard**: Real-time progress visualization deployed on GitHub Pages
+- **Interactive Learning**: Hands-on projects covering HTML, CSS, JavaScript, and DOM manipulation
+- **Achievement System**: Milestone tracking with unlockable achievements
+
+#### Course Modules:
+- ✅ **HTML Fundamentals**: Semantic markup, accessibility, and modern HTML5
+- 🔄 **CSS Styling & Design**: Responsive design, Grid, Flexbox, and modern CSS
+- 📚 **JavaScript Fundamentals**: ES6+, functions, objects, and core concepts
+- 🚀 **DOM Manipulation**: Interactive web applications and dynamic content
+
+![Course Progress](https://img.shields.io/badge/Progress-16%25-orange?style=for-the-badge)
+
+[📊 View Live Progress Dashboard](https://ghagsagar23.github.io/vue_js_udemy/)
 
 ---
 
@@ -103,6 +144,8 @@ For detailed usage instructions and examples, refer to the [livelyness_detection
 
 ## Current Projects
 
+### Mobile Applications
+
 ### 1. [Health App](https://github.com/GhagSagar23/legendary-system/tree/develop/healthapp)
 
 The **Health App** is the first application in this repository, demonstrating a robust and user-friendly platform for managing personal health and wellness. This app offers a range of features to help users track their fitness activities, monitor vital health metrics, and achieve their health goals.
@@ -132,7 +175,7 @@ The **Finance App** is a comprehensive financial management tool designed to hel
 
 - **Expense Tracking**: Log daily expenses and categorize transactions for better visibility.
 - **Card Management**: Manage credit and debit cards, track spending, and set limits.
-- **Apperance Customization**: Personalize the app with themes, colors, and fonts.
+- **Appearance Customization**: Personalize the app with themes, colors, and fonts.
 
 #### Technologies Used:
 
@@ -184,9 +227,9 @@ The **Food Order App** is a convenient and user-friendly platform for ordering f
 
 ![Home Screen](https://raw.githubusercontent.com/GhagSagar23/legendary-system/develop/foodorderapp/screenshots/food_order_app.gif)
 
-### 5. [Parallex App](https://github.com/GhagSagar23/legendary-system/tree/develop/parallexapp)
+### 5. [Parallax App](https://github.com/GhagSagar23/legendary-system/tree/develop/parallexapp)
 
-The **Parallex App** is a visually stunning application that showcases the parallax effect in Flutter. This app features a captivating parallax effect on images, creating a sense of depth and immersion for users. The Parallex App demonstrates the power of Flutter in creating engaging and interactive user experiences.
+The **Parallax App** is a visually stunning application that showcases the parallax effect in Flutter. This app features a captivating parallax effect on images, creating a sense of depth and immersion for users. The Parallax App demonstrates the power of Flutter in creating engaging and interactive user experiences.
 
 #### Key Features:
 
@@ -205,9 +248,19 @@ The **Parallex App** is a visually stunning application that showcases the paral
 
 ---
 
+## 2024-2025 Goals
+
+- 🎯 **Complete Full-Stack Web Development Course**: Master HTML, CSS, JavaScript, and Vue.js
+- 🌐 **Build Modern Web Applications**: Create responsive, interactive web projects
+- 📱 **Bridge Mobile & Web**: Leverage Flutter Web for cross-platform development
+- 🚀 **Contribute to Open Source**: Share web development learning resources and tools
+- 📈 **Career Growth**: Expand from Mobile Tech Lead to Full-Stack Tech Lead
+
+---
+
 ## Contributing
 
-Contributions are welcome! If you have suggestions, ideas, or enhancements, feel free to open an issue or submit a pull request. Let's collaborate to make these applications even better.
+Contributions are welcome! If you have suggestions, ideas, or enhancements for any of my projects, feel free to open an issue or submit a pull request. Let's collaborate to make these applications even better.
 
 ---
 
@@ -221,6 +274,8 @@ This repository is licensed under the MIT License. For more details, please refe
 
 Feel free to reach out to me on [WhatsApp](https://wa.me/917383565932?text=Hi,%20I%20found%20you%20on%20Github.%0A%0ACan%20we%20connect?) or via email at [sagar.ghag1997@gmail.com](mailto:sagar.ghag1997@gmail.com) for any queries or collaboration opportunities.
 
-Thank you for visiting the **Legendary System** repository. Stay tuned for more exciting applications!
+Whether you want to discuss **Flutter development**, **web technologies**, or potential **collaboration opportunities**, I'm always excited to connect with fellow developers!
+
+Thank you for visiting my GitHub profile. Stay tuned for more exciting mobile and web applications!
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=GhagSagar23.visitor-badge)
