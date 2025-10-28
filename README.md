@@ -1,6 +1,4 @@
-# Hi there, I'm Sagar! 👋
-
-## Flutter Tech Lead & Team Lead | Full-Stack Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&pause=250&color=09D648&multiline=true&random=false&width=500&height=90&lines=Hi+there,+I'm+Sagar!;Flutter+And+Vue.JS+Developer)](https://git.io/typing-svg)
 
 ### About Me
 
