@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&pause=250&color=09D648&multiline=true&random=false&width=500&height=90&lines=Hi+there,+I'm+Sagar!;Flutter+And+Vue.JS+Developer)](https://git.io/typing-svg)
 
+#### Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghagsagar23&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghagsagar23&theme=2077)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghagsagar23&theme=2077)
+
 ### About Me
 
 I'm a **Flutter Tech Lead** and **Team Lead** with 6 years of total experience in mobile app development, currently expanding my expertise into **full-stack web development**.
