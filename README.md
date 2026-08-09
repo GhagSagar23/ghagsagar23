@@ -1,283 +1,122 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&pause=250&color=09D648&multiline=true&random=false&width=500&height=90&lines=Hi+there,+I'm+Sagar!;Flutter+And+Vue.JS+Developer)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,48:312E81,100:0891B2&height=240&section=header&text=SAGAR%20GHAG&fontSize=66&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=MOBILE%20ENGINEER%20%E2%80%A2%20FLUTTER%20SPECIALIST%20%E2%80%A2%20FRONTEND%20BUILDER&descSize=17&descAlignY=56" alt="Sagar Ghag — Mobile Engineer, Flutter Specialist, Frontend Builder" />
 
-#### Github Stats
+<div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghagsagar23&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghagsagar23&theme=2077)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghagsagar23&theme=2077)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=950&color=22D3EE&center=true&vCenter=true&repeat=true&width=780&height=70&lines=Flutter+%E2%86%92+production-grade+mobile+experiences;Mobile+systems+%E2%86%92+clean+%E2%80%A2+scalable+%E2%80%A2+tested;Native+platforms+%E2%86%92+Swift+%2B+Kotlin;Modern+web+%E2%86%92+Vue.js+%2B+JavaScript)](https://git.io/typing-svg)
 
-### About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/ghag23)
+[![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/GhagSagar23)
+[![Email](https://img.shields.io/badge/Email-START_A_CONVERSATION-A855F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:sagar.ghag1997@gmail.com)
 
-I'm a **Flutter Tech Lead** and **Team Lead** with 6 years of total experience in mobile app development, currently expanding my expertise into **full-stack web development**.
+</div>
 
-- 🏢 **Professional Experience:**
-  - 2 years as an iOS developer
-  - 5 years as a Flutter developer
-  - Working as a Senior Software Engineer [@CriticalStart](https://github.com/Critical-Start)
+## `> whoami`
 
-- 🌐 **Currently Learning:**
-  - Modern Web Development (HTML5, CSS3, JavaScript ES6+)
-  - Vue.js for frontend frameworks
-  - DOM manipulation and interactive web applications
-  - Responsive design and modern CSS techniques
-
-- 🏍️ Passionate about long motorcycle rides
-- 🏊‍♂️ Enjoy swimming
-- 🏐 Love playing volleyball
-- 🎶 Exploring new genres of music and indie songs
-
----
-
-### Connect with Me
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghag23)
-- ![X](https://img.shields.io/twitter/follow/sagarghag23?style=social)
-- [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/GhagSagar23)
-- [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:sagar.ghag1997@gmail.com)
-
----
-
-## Tech Stack
-
-### Mobile Development
-- **Languages & Frameworks:**
-  - Dart
-  - Swift
-  - Kotlin
-  - Flutter
-
-### Web Development (Learning)
-- **Frontend Technologies:**
-  - HTML5 & Semantic Web
-  - CSS3 & Modern Styling
-  - JavaScript (ES6+)
-  - Vue.js Framework
-  - DOM Manipulation
-  - Responsive Design
-
-### Tools & Technologies
-- **Development Tools:**
-  - Git & GitHub Actions
-  - CI/CD Pipelines
-  - Firebase
-  - SQLite
-  - Xcode
-  - Android Studio
-  - VS Code
-  - Postman
-  - Jira
-
-### Methodologies
-- Agile
-- Scrum
-- Kanban
-- Test-Driven Development (TDD)
-- Behavior-Driven Development (BDD)
-
----
-
-## Learning Journey
-
-### 🌐 [Web Design Course Progress](https://github.com/GhagSagar23/vue_js_udemy)
-
-Currently undertaking a comprehensive web development course to expand my skillset from mobile to full-stack development. This repository features:
-
-- **Automated Progress Tracking**: GitHub Actions workflow that tracks learning progress with visual dashboards
-- **Live Progress Dashboard**: Real-time progress visualization deployed on GitHub Pages
-- **Interactive Learning**: Hands-on projects covering HTML, CSS, JavaScript, and DOM manipulation
-- **Achievement System**: Milestone tracking with unlockable achievements
-
-#### Course Modules:
-- ✅ **HTML Fundamentals**: Semantic markup, accessibility, and modern HTML5
-- 🔄 **CSS Styling & Design**: Responsive design, Grid, Flexbox, and modern CSS
-- 📚 **JavaScript Fundamentals**: ES6+, functions, objects, and core concepts
-- 🚀 **DOM Manipulation**: Interactive web applications and dynamic content
-
-![Course Progress](https://img.shields.io/badge/Progress-16%25-orange?style=for-the-badge)
-
-[📊 View Live Progress Dashboard](https://ghagsagar23.github.io/vue_js_udemy/)
-
----
-
-## My GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GhagSagar23&show_icons=true&theme=vue-dark)
-
-![Your GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GhagSagar23&theme=vue-dark)
-
-![GitHub Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhagSagar23&layout=compact&theme=vue-dark)
-
----
-
-## Community Contributions
-
-### 1. [livelyness_detection](https://pub.dev/packages/livelyness_detection)
-
-The `livelyness_detection` package is a Flutter plugin that detects the user's liveliness by analyzing facial expressions and movements. This plugin uses the device's camera to capture the user's face and provides real-time feedback on their liveliness status. The `livelyness_detection` package is ideal for applications that require liveliness detection for security, authentication, or engagement purposes.
-
-#### Key Features:
-
-- **Google ML Kit**: Detects facial expressions such as smiles, frowns, and blinks.
-- **Real-Time Feedback**: Provides instant feedback on the user's liveliness status.
-- **Customizable Thresholds**: Allows developers to set custom thresholds for liveliness detection.
-
-#### Technologies Used:
-
-- **Flutter**: Utilizing Flutter for a responsive and visually appealing user interface.
-- **Dart**: Writing clean and efficient code with Dart programming language.
-- **Google ML Kit**: Leveraging Google ML Kit for facial expression detection.
-
-#### Installation:
-
-To install the `livelyness_detection` package, add the following dependency to your `pubspec.yaml` file:
-
-```yaml
-dependencies:
-  livelyness_detection: ^0.0.1+2
+```typescript
+const sagar = {
+  role: "Mobile & Frontend Engineer",
+  core: ["Flutter", "Dart", "Cross-platform architecture"],
+  native: ["Swift", "Kotlin"],
+  web: ["Vue.js", "JavaScript", "Responsive interfaces"],
+  craft: ["Clean code", "Testing", "CI/CD", "Technical leadership"],
+  mission: "Turn complex product ideas into dependable experiences.",
+};
 ```
 
-#### Example:
+I engineer mobile and web products that feel fast, clear, and intentional. My foundation is in **Flutter and native mobile development**, supported by hands-on frontend work with **Vue.js** and a strong bias toward maintainable systems, thoughtful user experience, and collaborative delivery.
 
-![Livelyness Detection Example](https://raw.githubusercontent.com/GhagSagar23/livelyness_detection/develop/lib/src/assets/demo/livelyness_detection_android.gif)
+## `> engineering_focus`
 
-For detailed usage instructions and examples, refer to the [livelyness_detection package documentation](https://pub.dev/packages/livelyness_detection).
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>⚡ Mobile systems</h3>
+      <p>Cross-platform architecture, polished interfaces, native integrations, performance, and reliable release workflows.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>◈ Product engineering</h3>
+      <p>Translating product intent into accessible, responsive experiences with pragmatic technical decisions.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⌁ Engineering culture</h3>
+      <p>Clean architecture, TDD, CI/CD, constructive reviews, clear communication, and shared team ownership.</p>
+    </td>
+  </tr>
+</table>
 
----
+## `> technology_matrix`
 
-## Current Projects
+<div align="center">
 
-### Mobile Applications
+### Core engineering
 
-### 1. [Health App](https://github.com/GhagSagar23/legendary-system/tree/develop/healthapp)
+[![Core engineering stack](https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,vue,js&theme=dark)](https://skillicons.dev)
 
-The **Health App** is the first application in this repository, demonstrating a robust and user-friendly platform for managing personal health and wellness. This app offers a range of features to help users track their fitness activities, monitor vital health metrics, and achieve their health goals.
+### Platforms, data & delivery
 
-#### Key Features:
+[![Platforms and delivery stack](https://skillicons.dev/icons?i=firebase,sqlite,git,githubactions,androidstudio,vscode,postman&theme=dark)](https://skillicons.dev)
 
-- **Activity Tracking**: Log daily activities such as walking, running, and cycling.
-- **Health Metrics**: Monitor vital signs like heart rate, blood pressure, and more.
-- **Goals and Reminders**: Set health goals and receive reminders to stay on track.
-- **User-Friendly Interface**: Enjoy an intuitive and seamless user experience.
+</div>
 
-#### Technologies Used:
+## `> featured_builds`
 
-- **Flutter**: Leveraging the power of Flutter for a smooth and responsive cross-platform app.
-- **Dart**: Implementing efficient and maintainable code with Dart.
-- **Firebase**: Integrating Firebase for real-time database and authentication.
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🧬 livelyness_detection</h3>
+      <p>A Flutter package for camera-based liveness interaction using Google ML Kit facial signals—built for identity, security, and engagement flows.</p>
+      <p>
+        <a href="https://pub.dev/packages/livelyness_detection"><img src="https://img.shields.io/pub/v/livelyness_detection?style=flat-square&logo=dart&logoColor=white&color=22D3EE&labelColor=0D1117" alt="pub.dev version" /></a>
+        <a href="https://github.com/GhagSagar23/livelyness_detection"><img src="https://img.shields.io/github/stars/GhagSagar23/livelyness_detection?style=flat-square&logo=github&color=A855F7&labelColor=0D1117" alt="GitHub stars" /></a>
+      </p>
+      <p><a href="https://pub.dev/packages/livelyness_detection"><strong>Explore the package →</strong></a></p>
+    </td>
+    <td width="45%" valign="top">
+      <h3>🌐 Web engineering lab</h3>
+      <p>A hands-on Vue.js and modern frontend learning environment with automated progress tracking, interactive projects, and a live dashboard.</p>
+      <p>
+        <a href="https://github.com/GhagSagar23/vue_js_udemy"><img src="https://img.shields.io/badge/SOURCE-VUE.JS-42B883?style=flat-square&logo=vue.js&logoColor=white&labelColor=0D1117" alt="Vue.js source" /></a>
+        <a href="https://ghagsagar23.github.io/vue_js_udemy/"><img src="https://img.shields.io/badge/LIVE-PROGRESS_DASHBOARD-22D3EE?style=flat-square&logo=githubpages&logoColor=white&labelColor=0D1117" alt="Live dashboard" /></a>
+      </p>
+      <p><a href="https://ghagsagar23.github.io/vue_js_udemy/"><strong>Launch the dashboard →</strong></a></p>
+    </td>
+  </tr>
+</table>
 
-#### Screenshots:
+## `> open_source_signal`
 
-![Home Screen](https://raw.githubusercontent.com/GhagSagar23/legendary-system/develop/healthapp/screenshots/health_app/health_app.gif)
+<div align="center">
 
-### 2. [Finance App](https://github.com/GhagSagar23/legendary-system/tree/develop/financeapp)
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhagSagar23&theme=github_dark&animation=rgb-soft&duration=3" alt="Sagar Ghag's GitHub contribution summary" />
 
-The **Finance App** is a comprehensive financial management tool designed to help users track their expenses, manage budgets, and achieve financial stability. This app offers a range of features to simplify money management and empower users to make informed financial decisions.
+<img width="56%" src="https://streak-stats.demolab.com?user=GhagSagar23&theme=transparent&hide_border=true&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE&sideLabels=C4B5FD&dates=94A3B8&stroke=334155" alt="Sagar Ghag's GitHub contribution streak" />
 
-#### Key Features:
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=GhagSagar23&bg_color=0D1117&color=94A3B8&line=22D3EE&point=A855F7&area=true&hide_border=true&custom_title=Contribution%20Telemetry" alt="Sagar Ghag's GitHub activity graph" />
 
-- **Expense Tracking**: Log daily expenses and categorize transactions for better visibility.
-- **Card Management**: Manage credit and debit cards, track spending, and set limits.
-- **Appearance Customization**: Personalize the app with themes, colors, and fonts.
+</div>
 
-#### Technologies Used:
+## `> operating_principles`
 
-- **Flutter**: Utilizing Flutter for a responsive and visually appealing user interface.
-- **Dart**: Writing clean and efficient code with Dart programming language.
-- **SQLite**: Implementing a local database for storing user data securely.
+```text
+01  Build for the person using the product.
+02  Make the architecture earn its complexity.
+03  Automate the repeatable; document the surprising.
+04  Treat quality as a continuous engineering practice.
+05  Share context early and collaborate without ego.
+```
 
-#### Screenshots:
+## `> beyond_the_terminal`
 
-![Home Screen](https://raw.githubusercontent.com/GhagSagar23/legendary-system/develop/financeapp/screenshots/finance_app.gif)
+When I step away from code, you’ll usually find me on a long motorcycle ride, swimming, playing volleyball, or searching for the next great indie track.
 
-### 3. [Pizza App](https://github.com/GhagSagar23/legendary-system/tree/develop/pizzaapp)
+<div align="center">
 
-The **Pizza App** is a delightful food ordering application that allows users to browse a variety of pizzas, customize their orders, and place them seamlessly. This app offers a range of features to enhance the user experience and make ordering pizza a fun and convenient process.
+### Have an ambitious product, engineering challenge, or open-source idea?
 
-#### Key Features:
+[![Start a conversation](https://img.shields.io/badge/START_A_CONVERSATION-020617?style=for-the-badge&logo=minutemailer&logoColor=22D3EE)](mailto:sagar.ghag1997@gmail.com)
 
-- **Pizza Selection**: Browse a wide selection of pizzas with detailed descriptions and images.
-- **Customization Options**: Customize pizzas with toppings, crusts, and sizes to suit your preferences.
-- **Order Placement**: Place orders quickly and securely with a few taps on the app.
+<sub>Building dependable software · Learning continuously · Contributing openly</sub>
 
-#### Technologies Used:
+</div>
 
-- **Flutter**: Building a visually appealing and interactive user interface with Flutter.
-- **Dart**: Writing clean and efficient code with Dart programming language.
-- **Firebase**: Integrating Firebase for real-time database and authentication.
-
-#### Screenshots:
-
-![Home Screen](https://raw.githubusercontent.com/GhagSagar23/legendary-system/develop/pizzaapp/screenshots/pizza_app.gif)
-
-### 4. [Food Order App](https://github.com/GhagSagar23/legendary-system/tree/develop/foodorderapp)
-
-The **Food Order App** is a convenient and user-friendly platform for ordering food from a variety of restaurants. This app offers a range of features to simplify the food ordering process, provide detailed restaurant information, and ensure a seamless user experience.
-
-#### Key Features:
-
-- **Restaurant Selection**: Browse a list of restaurants, view menus, and select items to order.
-- **Order Customization**: Customize food items with options, quantities, and special instructions.
-- **Order Placement**: Place orders securely and track delivery status in real-time.
-
-#### Technologies Used:
-
-- **Flutter**: Developing a responsive and visually appealing user interface with Flutter.
-- **Dart**: Writing clean and efficient code with Dart programming language.
-- **Firebase**: Integrating Firebase for real-time database and authentication.
-
-#### Screenshots:
-
-![Home Screen](https://raw.githubusercontent.com/GhagSagar23/legendary-system/develop/foodorderapp/screenshots/food_order_app.gif)
-
-### 5. [Parallax App](https://github.com/GhagSagar23/legendary-system/tree/develop/parallexapp)
-
-The **Parallax App** is a visually stunning application that showcases the parallax effect in Flutter. This app features a captivating parallax effect on images, creating a sense of depth and immersion for users. The Parallax App demonstrates the power of Flutter in creating engaging and interactive user experiences.
-
-#### Key Features:
-
-- **Parallax Effect**: Implementing a parallax effect on images for a visually appealing interface.
-- **Interactive Design**: Engaging users with dynamic and interactive elements.
-- **Smooth Animations**: Creating seamless animations to enhance the user experience.
-
-#### Technologies Used:
-
-- **Flutter**: Leveraging Flutter's animation capabilities to create dynamic user interfaces.
-- **Dart**: Writing clean and efficient code with Dart programming language.
-
-#### Screenshots:
-
-![Home Screen](https://raw.githubusercontent.com/GhagSagar23/legendary-system/develop/parallexapp/screenshots/parallex_app.gif)
-
----
-
-## 2024-2025 Goals
-
-- 🎯 **Complete Full-Stack Web Development Course**: Master HTML, CSS, JavaScript, and Vue.js
-- 🌐 **Build Modern Web Applications**: Create responsive, interactive web projects
-- 📱 **Bridge Mobile & Web**: Leverage Flutter Web for cross-platform development
-- 🚀 **Contribute to Open Source**: Share web development learning resources and tools
-- 📈 **Career Growth**: Expand from Mobile Tech Lead to Full-Stack Tech Lead
-
----
-
-## Contributing
-
-Contributions are welcome! If you have suggestions, ideas, or enhancements for any of my projects, feel free to open an issue or submit a pull request. Let's collaborate to make these applications even better.
-
----
-
-## License
-
-This repository is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
-
----
-
-## Contact
-
-Feel free to reach out to me on [WhatsApp](https://wa.me/917383565932?text=Hi,%20I%20found%20you%20on%20Github.%0A%0ACan%20we%20connect?) or via email at [sagar.ghag1997@gmail.com](mailto:sagar.ghag1997@gmail.com) for any queries or collaboration opportunities.
-
-Whether you want to discuss **Flutter development**, **web technologies**, or potential **collaboration opportunities**, I'm always excited to connect with fellow developers!
-
-Thank you for visiting my GitHub profile. Stay tuned for more exciting mobile and web applications!
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=GhagSagar23.visitor-badge)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,52:312E81,100:020617&height=120&section=footer" alt="Decorative footer" />
