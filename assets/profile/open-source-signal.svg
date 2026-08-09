@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Open-source engineering signal</title>
+  <desc id="desc">Animated open-source activity visualization</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset=".56" stop-color="#101535"/>
+      <stop offset="1" stop-color="#071923"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset=".5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#475569" stroke-width="1" opacity=".1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-100%" width="200%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="258" rx="20" fill="url(#bg)" stroke="#273449"/>
+  <rect x="1" y="1" width="1198" height="258" rx="20" fill="url(#grid)"/>
+  <text x="42" y="42" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="3">OPEN SOURCE SIGNAL // LIVE CHANNEL</text>
+  <circle cx="824" cy="37" r="5" fill="#34d399" filter="url(#glow)">
+    <animate attributeName="opacity" values=".3;1;.3" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="838" y="42" fill="#6ee7b7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">SIGNAL ONLINE</text>
+
+  <path d="M42 146 L85 146 L108 104 L135 190 L168 126 L205 146 L250 146 L278 76 L308 209 L344 112 L380 146 L430 146 L456 92 L485 184 L521 124 L556 146 L605 146 L634 68 L666 212 L702 108 L744 146 L790 146"
+        fill="none" stroke="url(#signal)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="14 8" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-88" dur="2.8s" repeatCount="indefinite"/>
+  </path>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect x="835" y="75" width="320" height="142" rx="14" fill="#080e20" stroke="#334155"/>
+    <text x="862" y="108" fill="#64748b" font-size="13">CHANNEL</text>
+    <text x="1128" y="108" text-anchor="end" fill="#22d3ee" font-size="15" font-weight="700">COMMUNITY</text>
+    <text x="862" y="142" fill="#64748b" font-size="13">ACTIVITY</text>
+    <text x="1128" y="142" text-anchor="end" fill="#a5b4fc" font-size="15" font-weight="700">BUILD · REVIEW</text>
+    <text x="862" y="176" fill="#64748b" font-size="13">OUTPUT</text>
+    <text x="1128" y="176" text-anchor="end" fill="#d8b4fe" font-size="15" font-weight="700">CONTRIBUTE · SHARE</text>
+    <path d="M862 194H1128" stroke="#1e293b"/>
+    <text x="862" y="210" fill="#475569" font-size="11">CONTEXT PRESERVED // KNOWLEDGE COMPOUNDS</text>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">
+    <text x="42" y="232" fill="#22d3ee">BUILD</text>
+    <text x="154" y="232" fill="#818cf8">SHIP</text>
+    <text x="252" y="232" fill="#c084fc">REVIEW</text>
+    <text x="374" y="232" fill="#22d3ee">CONTRIBUTE</text>
+    <text x="544" y="232" fill="#818cf8">DOCUMENT</text>
+    <text x="696" y="232" fill="#c084fc">REPEAT</text>
+  </g>
+</svg>
